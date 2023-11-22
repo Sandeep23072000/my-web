@@ -1,0 +1,17 @@
+.skill_main_head{
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+
+.skill_heading{
+    display: flex;
+    justify-content: space-between;
+}
+.skill_heading h4{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.progress{
+    height: 10px !important;
+}

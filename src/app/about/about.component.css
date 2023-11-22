@@ -1,0 +1,68 @@
+.about_main_head {
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.about_main_text h3 {
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+
+.about_main_text h4 {
+    font-weight: 400;
+    font-size: 1.3125rem;
+    line-height: 1.8;
+
+}
+
+.about_main_text h3 span {
+    font-weight: 700;
+    text-decoration: #adff2f underline !important;
+}
+
+.about_experience_year {
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about_experience_year h2 {
+    font-size: 9rem;
+    font-weight: 500;
+    z-index: 99;
+    position: relative;
+}
+
+.about_experience_year div {
+    width: 220px;
+    height: 220px;
+    background: #adff2f;
+    border-radius: 50%;
+    margin-top: -220px;
+}
+
+.about_experience_year h3 {
+    font-size: 1.75rem;
+    font-weight: 500;
+}
+
+.about_experience_year h3 span {
+    font-weight: 700;
+}
+
+.all_about_me{
+    display: flex;
+    flex-direction: column;
+}
+.all_about_me h3{
+    font-weight: 500;
+    color: #8e9a9d;
+    font-size: 20px;
+}
+.all_about_me h4{
+    font-weight: 600;
+    font-size: 1.125rem;
+}

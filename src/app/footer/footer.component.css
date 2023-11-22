@@ -1,0 +1,15 @@
+.main_containor{
+    height: 150px;
+    position: sticky;
+    bottom: 0;
+}
+.footer_text{
+    font-size: 20px;
+    color: #fff;
+}
+.footer_text a{
+    font-size: 20px;
+    color: #adff2f;
+    font-weight: 600;
+    text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+.resume_main_head h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.myedu_col_head {
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+
+.myedu_col {
+    border-left: 2px solid #adff2f !important;
+}
+
+.my_edu_details h1 {
+    font-size: 1.3125rem;
+    font-weight: 600;
+}
+.my_edu_details h6 {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+.my_edu_details p {
+    color: #8e9a9d !important;
+
+}

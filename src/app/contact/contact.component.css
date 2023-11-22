@@ -1,0 +1,24 @@
+.cotact_first_col h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.cotact_first_col h2 {
+    font-size: 1.2125rem;
+    font-weight: 200;
+    line-height: 1.6;
+}
+
+.cotact_first_col h3 {
+    font-size: 1.3125rem;
+    font-weight: 600;
+}
+
+.cotact_first_col h4 {
+    font-size: 1.125rem;
+    font-weight: 400;
+}
+
+.social_icons i{
+    cursor: pointer;
+}
